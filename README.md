@@ -42,6 +42,14 @@
 
 ## 💼 Experience
 
+### Technical Resource Specialist @ FCS Software Solutions Pvt. Ltd.  
+*June 2025 - Sept 2025*  
+- Not Disclosed  
+
+### Software Analyst @ Minth Group  
+*Feb 2025 - June 2025*  
+- Not Disclosed  
+
 ### Internship @ Cothon Solutions | AICTE, Govt. of India  
 *Oct 2024 - Dec 2024*  
 - Developed AI/ML models for **stock price prediction, animal species classification, and facial recognition**  
@@ -76,12 +84,20 @@
 
 ## 📜 Certifications
 
-![Coursera](https://img.shields.io/badge/Coursera-0072b1?style=for-the-badge&logo=coursera&logoColor=white)  
-- Project Management Specialization – Google  
-- Python 3 Specialization – University of Michigan  
-- Supervised Machine Learning – Stanford University & DeepLearning.AI  
-- Object-Oriented Programming – UC San Diego  
-- Meta Frontend Development Specialization – Meta  
+**Project Management Specialization – Google**  
+![Google](https://img.shields.io/badge/Google-4285F4?style=for-the-badge&logo=google&logoColor=white)  
+
+**Python 3 Specialization – University of Michigan**  
+![University of Michigan](https://img.shields.io/badge/University_of_Michigan-00274C?style=for-the-badge&logo=University-of-Michigan&logoColor=white)  
+
+**Supervised Machine Learning – Stanford University**  
+![Stanford](https://img.shields.io/badge/Stanford-8C1515?style=for-the-badge&logo=Stanford&logoColor=white)  
+
+**Object-Oriented Programming – UC San Diego**  
+![UCSD](https://img.shields.io/badge/UCSD-00274C?style=for-the-badge&logo=University-of-California-San-Diego&logoColor=white)  
+
+**Meta Frontend Development Specialization – Meta**  
+![Meta](https://img.shields.io/badge/Meta-1877F2?style=for-the-badge&logo=Meta&logoColor=white)  
 
 ---
 

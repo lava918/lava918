@@ -91,7 +91,7 @@
 <p align="center">
   <a href="mailto:lavanyasharma6t9@gmail.com"><img src="https://img.shields.io/badge/Email-Me-red?style=for-the-badge&logo=gmail" /></a>
   <a href="https://www.linkedin.com/in/lavanya-sharma-329b41246/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="https://lava918.github.io/"><img src="https://img.shields.io/badge/Portfolio-Visit-1E90FF?style=for-the-badge&logo=vercel" /></a>
+  <a href="https://lavanya-sharma.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-1E90FF?style=for-the-badge&logo=vercel" /></a>
 </p>
 
 ---

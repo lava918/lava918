@@ -1,12 +1,11 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Lavanya+Sharma+👋;Software+Developer+%7C+AI+Enthusiast;Frontend+Leader+%7C+ML+Innovator" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Lavanya+Sharma;Software+Developer+|+AI+Enthusiast" alt="Typing SVG" />
 </h1>
 
+
 <p align="center">
-  <a href="mailto:lavanyasharma6t9@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/lavanya-sharma-329b41246/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="https://lava918.github.io/"><img src="https://img.shields.io/badge/Portfolio-1E90FF?style=flat&logo=vercel&logoColor=white" /></a>
-  <a href="https://github.com/lava918"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" /></a>
+  <a href="https://lavanya-sharma.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-1E90FF?style=flat&logo=vercel&logoColor=white" /></a>
 </p>
 
 ---

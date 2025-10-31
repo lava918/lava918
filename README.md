@@ -1,5 +1,17 @@
+<!-- Banner -->
+<p align="center">
+  <img src="https://github.com/krishnapschauhan/krishnapschauhan/blob/main/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png?raw=true" alt="Banner" width="100%"/>
+</p>
+
+
+<!-- Intro -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Lavanya+Sharma;Software+Developer+|+AI+Enthusiast" alt="Typing SVG" />
+  Hi, I'm Lavanya Sharma
+  <img src="https://user-images.githubusercontent.com/74038190/227779362-cacda485-cab4-4e28-8a27-a4d2a918a7ac.gif" width="85px" />
+</h1>
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Software+Developer+|+AI+Enthusiast;JavaScript,+Python,+Java,+AIML" alt="Typing SVG" />
 </h1>
 
 
@@ -33,11 +45,12 @@
 |---------------|----------------|----------------|----------------|----------------|
 | ![Java](https://skillicons.dev/icons?i=java) ![Python](https://skillicons.dev/icons?i=python) ![C++](https://skillicons.dev/icons?i=cpp) ![JavaScript](https://skillicons.dev/icons?i=javascript) ![TypeScript](https://skillicons.dev/icons?i=typescript) | ![React](https://skillicons.dev/icons?i=react) ![Next.js](https://skillicons.dev/icons?i=nextjs) ![Nodejs](https://skillicons.dev/icons?i=nodejs) ![Tailwind](https://skillicons.dev/icons?i=tailwind) | ![Scikit-Learn](https://img.shields.io/badge/-ScikitLearn-orange?logo=scikitlearn&logoColor=white) ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas) ![Naive Bayes](https://img.shields.io/badge/-NaiveBayes-blue?logo=python&logoColor=white) ![OpenCV](https://img.shields.io/badge/-OpenCV-lightgrey?logo=opencv&logoColor=white) ![Random Forest](https://img.shields.io/badge/-RandomForest-green?logo=python&logoColor=white) | ![PostgreSQL](https://skillicons.dev/icons?i=postgres) ![MongoDB](https://skillicons.dev/icons?i=mongodb) ![MySQL](https://skillicons.dev/icons?i=mysql) ![Oracle](https://skillicons.dev/icons?i=oracle) | ![Git](https://skillicons.dev/icons?i=git) ![Vercel](https://skillicons.dev/icons?i=vercel) ![Render](https://skillicons.dev/icons?i=render) ![VSCode](https://skillicons.dev/icons?i=vscode) |
 
-
-
-
 </div>
 
+<!-- Pac-Man Fun GIF -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="Pac-Man" width="500px"/>
+</p>
 ---
 
 ### 🧩 Featured Projects
@@ -63,7 +76,7 @@ The app focuses on simplicity, interactivity, and data visualization to make fit
 
 ---
 
-## 🟣 SkillSwap – Peer Learning & Collaboration Platform  
+## 🟣 SkillSwap – Peer Learning & Collaboration Platform (Open-Source) 
 **GitHub:** [SkillSwap Repository](https://github.com/lava918/SkillSwap.git)
 
 SkillSwap is a modern web platform designed to **connect learners and experts** who want to exchange skills.  
@@ -138,6 +151,11 @@ Whether you’re a developer, designer, or artist, SkillSwap lets you **share yo
   <a href="https://lavanya-sharma.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-1E90FF?style=for-the-badge&logo=vercel" /></a>
 </p>
 
+
+<!-- Pac-Man Fun GIF -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="Pac-Man" width="500px"/>
+</p>
 ---
 
 <h3 align="center">✨ “Code, Create, Conquer — One Pixel and One Model at a Time.” ✨</h3>

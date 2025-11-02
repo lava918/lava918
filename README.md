@@ -17,7 +17,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/lavanya-sharma-329b41246/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="https://lavanya-sharma.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-1E90FF?style=flat&logo=vercel&logoColor=white" /></a>
+  <a href="https://lavanya-sharma0.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-1E90FF?style=flat&logo=vercel&logoColor=white" /></a>
 </p>
 
 ---

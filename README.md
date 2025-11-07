@@ -97,14 +97,7 @@ Whether you’re a developer, designer, or artist, SkillSwap lets you **share yo
 
 ---
 
-#### 🔹 [Spam E-Mail Filtration](https://github.com/lava918/Spam_e-mail_filteration_python_and_machine_learning)
-> Filter unwanted spam emails using ML classifiers like **Naive Bayes** & **Random Forest** — achieved **96% accuracy**.
-
-#### 🔹 [Stock Price Prediction Model](https://github.com/lava918/Stock)
-> ML-based predictive analysis of **Tesla stock** with **Matplotlib** & **Plotly**, achieving **90% forecast accuracy**.
-
-#### 🔹 [The Food Basin 🍽️](https://lava918.github.io)
-> Full-fledged **food ordering web app** built with **React.js + Tailwind** and optimized for **90+ performance scores**.
+<h2><b>and more...</b></h2>
 
 ---
 

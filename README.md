@@ -102,20 +102,6 @@ An open-source platform that connects learners and experts to exchange skills th
 
 ---
 
-### 📊 GitHub Stats & Activity
-
-<div align="center">
-  
-  ![GitHub Streak](https://streak-stats.demolab.com?user=lava918&theme=tokyonight&hide_border=true)
-  
-  ![Lavanya's GitHub stats](https://github-readme-stats.vercel.app/api?username=lava918&show_icons=true&theme=tokyonight&hide_border=true)
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lava918&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 ### 🌈 Let's Connect
 
 <p align="center">

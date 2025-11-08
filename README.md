@@ -67,7 +67,7 @@ A sleek React-based web app that helps users track daily steps, calories, and wa
 **GitHub:** [SkillSwap Repository](https://github.com/lava918/SkillSwap.git)
 An open-source platform that connects learners and experts to exchange skills through profiles, matching, and real-time collaboration.
 
----
+<hr>
 
 ### **and more...**
 

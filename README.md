@@ -55,49 +55,22 @@
 
 ### 🧩 Featured Projects
 
-## 🟡 FitTrack – Personal Health & Fitness Logger  
+## FitTrack – Personal Health & Fitness Logger
+
 **GitHub:** [FitTrack Repository](https://github.com/lava918/FitTrack.git)
-
-FitTrack is a lightweight and user-friendly web app that helps users **track their daily health activities** — including steps, calories, and water intake.  
-The app focuses on simplicity, interactivity, and data visualization to make fitness tracking effortless and engaging.
-
-### 🔍 Features
-- 🧮 **Manual Data Entry** – Log daily steps, calories, and water intake.  
-- 📊 **Visual Progress Tracking** – Interactive charts built with **Recharts.js**.  
-- ♻️ **Weekly Reset** – Automatically resets the data weekly to keep progress fresh.  
-- 💾 **LocalStorage Support** – Saves user data locally for persistent tracking.  
-- ⚡ **Fast and Responsive UI** – Built with **React** and **Vite** for high performance.
-
-### 🛠️ Tech Stack
-- **Frontend:** React.js, Vite, Tailwind CSS  
-- **Data Visualization:** Recharts.js  
-- **State Management:** React Hooks  
-- **Deployment:** Vercel / Render  
+A sleek React-based web app that helps users track daily steps, calories, and water intake with visual progress charts and local data storage.
 
 ---
 
-## 🟣 SkillSwap – Peer Learning & Collaboration Platform (Open-Source) 
+## SkillSwap – Peer Learning & Collaboration Platform (Open-Source)
+
 **GitHub:** [SkillSwap Repository](https://github.com/lava918/SkillSwap.git)
-
-SkillSwap is a modern web platform designed to **connect learners and experts** who want to exchange skills.  
-Whether you’re a developer, designer, or artist, SkillSwap lets you **share your skills and learn from others** through an intuitive interface.
-
-### 🔍 Features
-- 👥 **User Profiles** – Showcase your skills and interests.  
-- 🔄 **Skill Exchange** – Match users with complementary learning goals.  
-- 💬 **Chat & Collaboration** – Built-in communication for skill-sharing.  
-- 🌐 **Responsive Design** – Works seamlessly on all devices.  
-- 🔒 **Secure Authentication** – Sign up and manage profiles safely.
-
-### 🛠️ Tech Stack
-- **Frontend:** React.js, Tailwind CSS  
-- **Backend:** Node.js, Express.js  
-- **Database:** MongoDB  
-- **Deployment:** Render / Vercel  
+An open-source platform that connects learners and experts to exchange skills through profiles, matching, and real-time collaboration.
 
 ---
 
-<h2><b>and more...</b></h2>
+### **and more...**
+
 
 ---
 
